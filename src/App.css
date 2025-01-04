@@ -1,0 +1,22 @@
+/* Custom Scrollbar */
+.reminder-container::-webkit-scrollbar {
+    width: 6px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  
+  
+  .reminder-container:hover::-webkit-scrollbar {
+    opacity: 1;
+  }
+  
+  .reminder-container::-webkit-scrollbar-thumb {
+    background-color: gray;
+    border-radius: 10px;
+  }
+  
+  .reminder-container::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
