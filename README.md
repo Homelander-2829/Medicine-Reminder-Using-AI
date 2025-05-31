@@ -10,10 +10,6 @@ This is a Medicine Reminder web application built with React. It helps users to 
 - Uses Google Generative AI for enhanced features
 - Built with React and TailwindCSS
 
-## Live Demo
-
-Check out the deployed app here:  
-[https://Homelander-2829.github.io/Medicine-Reminder-Using-AI](https://Homelander-2829.github.io/Medicine-Reminder-Using-AI)
 
 ## Installation
 
